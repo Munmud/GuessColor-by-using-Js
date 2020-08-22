@@ -1,0 +1,31 @@
+.Title {
+    text-align: center;
+    background: cornflowerblue ;
+    color : white ;
+    font-family: 'Red Rose', cursive;
+    padding: 2em;
+}
+.title_color {
+    font-size: 2em;
+}
+.menu {
+    font-family: 'Red Rose', cursive;
+    background: white;
+    text-align: center;
+    color: cornflowerblue;
+}
+body {
+    background: darkgray;
+}
+.container {
+    width : 600px ;
+}
+
+.box {
+    text-align: center;
+    background: darkgray;
+    margin : 1.66% ;
+    width : 30%;
+    float : left ;
+    padding-bottom: 30%;
+}
